@@ -78,5 +78,5 @@ Pilagod Ho:  (12月)
 ||[許之騰](https://www.facebook.com/tonyc.t.hsu) - 大野狼|Ruby CSV簡介<br>主題描述:簡單介紹使用ruby操作csv<br>適合對象:ruby 新手
 10/6|[James](https://github.com/zxcand)|Power BI and Power BI embedded<br>主題描述: 分享如何透過Power BI 把資料視覺化轉換成互動報表，並內嵌至您的應用程式讓資料一目了然！<br>適合對象:  想要製作BI報表，或將BI報表整合至Web/Mobile的朋友|[投影片](https://github.com/AmazingTalker/web-tech-topic/blob/master/slider/WTT10_PowerBI.pdf)|
 ||[許承德 - Firstweb Limited F2E](http://tedshd.github.io/resume/)|firebase for web|[投影片](https://docs.google.com/presentation/d/1we7yKYl1FtvmLaLdrLHml1j49LCd5qIVC8F04hyjqtM/edit?usp=sharing)
-10/13|[Eric](https://tw.linkedin.com/in/momolbj) - momoLBJ|無線網路的奇幻旅程<br>主題描述: 用一個比較輕鬆的氣氛帶領大家進入一段無線網路的奇幻旅程，瞭解無線網路是很(不)安全的，以及身為使用者的我們該如何保護自己<br>適合對象: 瞭解基礎網路原理者尤佳，一般人也可
+10/13|[Eric](https://tw.linkedin.com/in/momolbj) - momoLBJ|無線網路的奇幻旅程<br>主題描述: 用一個比較輕鬆的氣氛帶領大家進入一段無線網路的奇幻旅程，瞭解無線網路是很(不)安全的，以及身為使用者的我們該如何保護自己<br>適合對象: 瞭解基礎網路原理者尤佳，一般人也可|[投影片](https://github.com/AmazingTalker/web-tech-topic/blob/master/slider/Wireless-Secutiry.pdf)
 ||[王信凱](https://github.com/jcsky) - AmazingTalker 技術長|Rails5 WebSocket demo<br>說明如何使用Rails5的ActionCable實作WebSocket連線<br>適合對象:正在使用Rails的開發者|[投影片](https://hackmd.io/p/B1m11d2C)
