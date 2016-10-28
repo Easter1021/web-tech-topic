@@ -33,12 +33,10 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 
 |日期|講者|主題|投影片|
 |----|----|----|----|
-10/27|[Wilson Liu]() - Data Engineer at Paktor|Data Pipeline in Paktor & Optus<br>本主題不提供直播僅限現場聽眾參與
-||[林楊興](github.com/mz026) - Senior Web Developer @ Codementor|Unit Test With RSpec<br>藉由 RSpec 介紹 Unit Test 的概念和相對應的工作流程<br>對 ruby 有基本了解並且對 TDD 有興趣的人
 11/03|[Rick Chiang](https://www.facebook.com/mrsunboss) - Addweup FullStack Developer|React Native 起手式 + 結合 redux<br>"Learn once, write anywhere"，使用 React Native 利用 Javascript 去 hook 裝置原生的元件，打造出接近原生的 APP。<br>適合:想成為跨平台開發者（Andorid、IOS）、想學 React、正在使用 React
 ||[Wolke](https://www.facebook.com/wolke.live) - 1797 創辦人|socket.io WebSocket demo<br>說明如何使用nodejs的socket.io實作WebSocket連線 適合對象:正在使用nodejs的開發者<br>適合:想寫聊天找炮(誤)交好友的web app<br>[1797 介紹: 一起救急，唯一匿名、快速、安全的借貸媒合平台](https://1797.tw)
-11/10|[James](https://github.com/zxcand)|machine learning
-||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+11/10|[James](https://github.com/zxcand) - Microsoft Technical Evangelist|從零開始認識Machine Learning<br>說明Machine Learning基本概念及如何透過Azure Machine Learning Studio應用在服務中，藉由輕鬆直覺的使用者經驗讓開發者快速上手機器學習。<br>適合:ML初學者、考慮應用ML技術的朋友
+||[Juin Chiu]()
 11/17|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 11/24|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
@@ -80,3 +78,5 @@ Pilagod Ho:  (12月)
 ||[王信凱](https://github.com/jcsky) - AmazingTalker 技術長|Rails5 WebSocket demo<br>說明如何使用Rails5的ActionCable實作WebSocket連線<br>適合對象:正在使用Rails的開發者|[投影片](https://hackmd.io/p/B1m11d2C)
 10/20|[MarsZ](github.com/marsz) - 伍樓專業執行長|BDD 導入經驗分享<br>分享 BDD （行為驅動開發）導入前後對開發團隊在工作流程上的影響，以及導入過程中的慘痛經驗分享<br>適合:沒寫測試習慣想要導入測試的開發者、有寫測試習慣但希望能更精進寫測試的開發者|[投影片](https://hackmd.io/p/Bk7gPjMA#)
 ||[sdlong](https://github.com/sdlong)|Rails Rspec 心得分享<br>用 Rspec 撰寫 Rails 的測試，主要分享撰寫 Rspec 測試的基礎概念，以及一個可以 follow 的方法論，來讓你在撰寫的過程中，找到寫測試的方向<br>適合:有寫過 Ruby on Rails , 對 Rspec 寫測試有興趣者<br>[demo project](https://github.com/sdlong/artstore/tree/rspec-demo)|[投影片](https://github.com/AmazingTalker/web-tech-topic/blob/master/slider/WTT12%20sdlong%20Rspec-%E5%88%86%E4%BA%AB.pdf)
+10/27|[Wilson Liu]() - Data Engineer at Paktor|Data Pipeline in Paktor & Optus<br>本主題不提供直播僅限現場聽眾參與
+||[林楊興](github.com/mz026) - Senior Web Developer @ Codementor|Unit Test With RSpec<br>藉由 RSpec 介紹 Unit Test 的概念和相對應的工作流程<br>對 ruby 有基本了解並且對 TDD 有興趣的人|[投影片](http://bit.ly/2eQiDnE)
