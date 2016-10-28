@@ -36,7 +36,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 11/03|[Rick Chiang](https://www.facebook.com/mrsunboss) - Addweup FullStack Developer|React Native 起手式 + 結合 redux<br>"Learn once, write anywhere"，使用 React Native 利用 Javascript 去 hook 裝置原生的元件，打造出接近原生的 APP。<br>適合:想成為跨平台開發者（Andorid、IOS）、想學 React、正在使用 React
 ||[Wolke](https://www.facebook.com/wolke.live) - 1797 創辦人|socket.io WebSocket demo<br>說明如何使用nodejs的socket.io實作WebSocket連線 適合對象:正在使用nodejs的開發者<br>適合:想寫聊天找炮(誤)交好友的web app<br>[1797 介紹: 一起救急，唯一匿名、快速、安全的借貸媒合平台](https://1797.tw)
 11/10|[James](https://github.com/zxcand) - Microsoft Technical Evangelist|從零開始認識Machine Learning<br>說明Machine Learning基本概念及如何透過Azure Machine Learning Studio應用在服務中，藉由輕鬆直覺的使用者經驗讓開發者快速上手機器學習。<br>適合:ML初學者、考慮應用ML技術的朋友
-||[Juin Chiu]()
+||[Juin Chiu](https://github.com/davidjuin0519) - iCook 後段工程師|A tour inside Redux<br>簡介Redux的運作原理，介紹 reducer, middleware, store 等觀念<br>適合:使用過JavaScript es6|
 11/17|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 11/24|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
