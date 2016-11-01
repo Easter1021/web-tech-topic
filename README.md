@@ -39,7 +39,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||[Juin Chiu](https://github.com/davidjuin0519) - iCook 後段工程師|A tour inside Redux<br>簡介Redux的運作原理，介紹 reducer, middleware, store 等觀念<br>適合:使用過JavaScript es6|
 11/17|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
-11/24|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+11/24|[Claire](https://www.facebook.com/messages/100000710672478)|雙北所得地圖
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 
 邀請中:
