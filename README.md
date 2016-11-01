@@ -41,6 +41,12 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 11/24|[Claire](https://www.facebook.com/messages/100000710672478)|[雙北所得地圖](https://missmoss.github.io/taipei-income-map/)
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+12/1|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+12/8|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+12/15|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 
 邀請中:
 
